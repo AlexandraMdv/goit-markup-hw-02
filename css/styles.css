@@ -73,6 +73,7 @@ body {
 .section-stratedy-title,
 .section-our-team-title,
 .section-our-portfolio-title {
+  color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -85,6 +86,7 @@ body {
 }
 
 .list-title {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
