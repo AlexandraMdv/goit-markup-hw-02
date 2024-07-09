@@ -1,0 +1,65 @@
+body {
+  color: #2e2f42;
+  font-family: "Roboto";
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.link-nav,
+.address-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.link-nav:hover,
+.link-nav-studio:active,
+.address-link:hover {
+  color: #404bbf;
+}
+
+.section-order {
+  background-color: #2e2f42;
+  color: #fff;
+}
+
+.order-button {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.order-button:hover {
+  background-color: #404bbf;
+  color: #fff;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 16px;
+}
+
+.section-our-team {
+  background-color: #f4f4fd;
+}
+
+.footer-text {
+  font-size: 16px;
+}
