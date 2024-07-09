@@ -1,3 +1,3 @@
 # Git
 
-## Acest repository este pentru prima lectie
+## Acest repository este pentru tema 2.
