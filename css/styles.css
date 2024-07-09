@@ -6,6 +6,7 @@ body {
 .logo {
   font-size: 18px;
   font-weight: 700;
+  line-height: 21px;
 }
 
 .link-nav,
@@ -34,26 +35,33 @@ body {
   cursor: pointer;
 }
 
+.section-order-title {
+  font-size: 56px;
+  line-height: 60px;
+}
+
 .order-button:hover {
   background-color: #404bbf;
   color: #fff;
+  line-height: 24px;
 }
 
-h1 {
-  font-size: 56px;
-}
-
-h2 {
+.section-stratedy-title,
+.section-our-team-title,
+.section-our-portfolio-title {
   font-size: 36px;
+  line-height: 40px;
 }
 
-h3 {
+.list-title {
   font-size: 20px;
   font-weight: 500;
+  line-height: 24px;
 }
 
-p {
+.list-info {
   font-size: 16px;
+  line-height: 24px;
 }
 
 .section-our-team {
@@ -62,4 +70,5 @@ p {
 
 .footer-text {
   font-size: 16px;
+  line-height: 24px;
 }
