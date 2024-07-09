@@ -4,6 +4,7 @@ body {
 }
 
 .logo {
+  color: #fff;
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
@@ -14,6 +15,7 @@ body {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
+  line-height: 24px;
 }
 
 .link-nav:hover,
@@ -33,6 +35,7 @@ body {
   font-size: 16px;
   font-weight: 500;
   cursor: pointer;
+  line-height: 24px;
 }
 
 .section-order-title {
@@ -43,7 +46,6 @@ body {
 .order-button:hover {
   background-color: #404bbf;
   color: #fff;
-  line-height: 24px;
 }
 
 .section-stratedy-title,
@@ -60,12 +62,18 @@ body {
 }
 
 .list-info {
+  color: #434455;
   font-size: 16px;
   line-height: 24px;
 }
 
 .section-our-team {
   background-color: #f4f4fd;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
 }
 
 .footer-text {
